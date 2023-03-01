@@ -1,0 +1,88 @@
+.head {
+    color: rgb(0, 0, 0);
+    font-family: 'Aboreto', cursive;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 30px 0;
+    letter-spacing: 2px;
+    float: center;
+    margin-right: 0px;
+    margin: top 0;
+    width:100%;
+    height: 280px;
+    background: rgb(32, 114, 158)
+    
+}
+
+.redes{
+
+ 
+transition:all 0.5s ease-out; border-radius:50px;
+}
+.iconos-sociales img:hover{
+box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.1);
+transform:translate(0px, -10px); 
+ ; 
+}
+
+section h4 {
+
+  color: #000000;
+  font-weight: 700;
+}
+
+section p {
+  color: rgb(13, 103, 40);
+  font-weight: 400;
+  
+}
+
+
+.informacion {
+
+
+border-style:hidden;
+border-radius: 20px;
+margin: 5px;
+position: relative;
+visibility:visible;
+padding: 30px;
+/*background:rgba(236, 236, 236, 0.815);
+box-shadow: 0 0 3px #000000, 0 0 20px #000000, 0 0 40px #000000;
+transition-delay: 0.1s;*/
+font-size: 25px;
+}
+.inf {
+    color: #6c2eb9;
+    font-weight: normal;
+    font-size: 20px;
+    font-family: Arial;
+    text-transform: uppercase;
+  }
+
+  .inf2{
+    color: #66636a;
+    font-weight: normal;
+    font-size: 20px;
+    font-family: Arial;
+   
+  }
+h4{
+  color: #ffffff;
+  font-weight: normal;
+  font-size: 20px;
+  font-family: Arial;
+  text-transform: uppercase;
+}
+
+.boton {
+
+  float: right;
+  font-size: 30px;
+border-radius: 100px;
+margin-bottom: 20px;
+background-color: black;
+color: white;
+
+}
